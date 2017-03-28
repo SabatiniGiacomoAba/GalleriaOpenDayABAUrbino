@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>Editor Processing</title>
+<script>
+function changeView()  {
+    var tipo = document.forms["frmEditor"]["tipo"].value;
+ 	 if (tipo=="punto") {
+			location.href = "editor_processing_punto.html";
+    }
+    if (tipo=="linea") {
+			location.href = "editor_processing_linea.html";
+    }
+    if (tipo=="rettangolo") {
+			location.href = "editor_processing_rettangolo.html";
+    }
+    if (tipo=="ellisse") {
+			location.href = "editor_processing_ellisse.html";
+    }
+    if (tipo=="triangolo") {
+			location.href = "editor_processing_triangolo.html";
+    }
+    if (tipo=="spezzata") {
+			location.href = "editor_processing_spezzata.html";
+	 }
+}
+</script>
+</head>
+<body>
+<b><div style="text-align: center"><i>Editor Galleria Processing</i></div></b>
+<form name="frmEditor" action="editor_processing.php" method="POST" onsubmit="return modulo()">
+   <table border= "0">
+   	<tr>
+   		<td>Tipo forma geometrica:</td>
+   		<td><select name="tipo" onchange="changeView()">
+				<option value="punto" selected >Punto</option>
+				<option value="linea">Linea</option>
+				<option value="rettangolo">Rettangolo</option>
+				<option value="ellisse">Ellisse</option>
+				<option value="triangolo">Triangolo</option>
+				<option value="spezzata">Spezzata</option>
+				</select>
+			</td>
+   	</tr>
+   	<tr>
+   		<td>Colore:</td>
+    		<td><input type="color" name="colore"></td>
+   	</tr>
+  		<tr>
+   		<td>Coordinata x1:</td>
+   		<td><input type="text" name="cx1" required></td>
+   	</tr>
+   	<tr>
+	   	<td>Coordinata y1:</td>
+   		<td><input type="text" name="cy1" required></td>
+   	</tr>
+   	<tr>
+   		<td>Area figura:</td>
+			<td><input type="radio" name="contorno" value="fill" checked>riempire &nbsp;<input type="radio" name="contorno" value="border">bordo</td>
+   	</tr>
+   	<tr>
+   		<td> </td><td><input type="submit" name="Crea" value="Crea" ></td>
+   	</tr>
+    </table>
+</form>
+<br>Per concludere questa operazione bisogna accedere al sito con il proprio account ... <br>
+<a href="../login.html"> Login </a> <br>
+<a href="../index.html"> Home </a>
+</body>
+</html>

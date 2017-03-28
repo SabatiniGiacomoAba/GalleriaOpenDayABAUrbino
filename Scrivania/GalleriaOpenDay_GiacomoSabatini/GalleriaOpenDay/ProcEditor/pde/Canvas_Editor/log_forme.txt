@@ -1,0 +1,6995 @@
+Vuoto
+ File in analisi ../../php/tempde/temp.giacomo.sabatini.xml
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0
+triangolo, , FFff0000FFff0000, 134.0, 55.0, 134.0, 105.0, 
+ red 255.0
+ blue 0.0
+ green 0.0
+ red 255.0
+ blue 0.0
+ green 0.0

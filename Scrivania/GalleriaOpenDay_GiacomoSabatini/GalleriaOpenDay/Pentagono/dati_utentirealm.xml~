@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+<user id="1">
+<name>Antonio</name>
+<surname>De Vincentis</surname>
+<username>vins</username>
+<password>1111</password>
+<definition>artista</definition>
+<realm>culto di chtulu</realm>
+<email>pppp</email>
+<studies>pppp</studies>
+<sex>M</sex>
+</user>
+<user id="2"><name>gion</name><surname>sno</surname><username>gionni</username><password>ded</password><definition>artista</definition><realm>culto</realm><email>gg@lol.com</email><studies>guardiano della notte</studies><sex>M</sex></user></users>

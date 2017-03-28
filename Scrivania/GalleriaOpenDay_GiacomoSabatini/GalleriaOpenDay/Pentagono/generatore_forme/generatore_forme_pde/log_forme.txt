@@ -1,0 +1,31 @@
+Vuoto
+ File in analisi ../../forme_geometriche/elemento_1486920213.xml
+triangolo, lol, FF000000, 99.0, 77.0, 88.0, 55.0, forma grafica di lol
+ red 0.0
+ blue 0.0
+ green 0.0
+Area piena 
+ File in analisi ../../forme_geometriche/elemento_1486920226.xml
+triangolo, lol, FF000000, 99.0, 77.0, 88.0, 55.0, forma grafica di lol
+ red 0.0
+ blue 0.0
+ green 0.0
+Area piena 
+ File in analisi ../../forme_geometriche/elemento_1486920240.xml
+triangolo, lol, FF000000, 7799.0, 77.0, 88.0, 55.0, forma grafica di lol
+ red 0.0
+ blue 0.0
+ green 0.0
+Area piena 
+ File in analisi ../../forme_geometriche/elemento_1486920264.xml
+triangolo, lol, FFd4ea24, 7799.0, 77.0, 88.0, 55.0, forma grafica di lol
+ red 212.0
+ blue 36.0
+ green 234.0
+Area piena 
+ File in analisi ../../forme_geometriche/elemento_1486921132.xml
+pentagono, lol, FFf5dd02, 200.0, 300.0, 100.0, 9.0, forma grafica di lol
+ red 245.0
+ blue 2.0
+ green 221.0
+Area piena 

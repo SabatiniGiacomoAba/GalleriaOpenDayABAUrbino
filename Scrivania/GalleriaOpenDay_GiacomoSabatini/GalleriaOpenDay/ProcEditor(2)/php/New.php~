@@ -1,0 +1,15 @@
+<?php
+require("../../sessione.php");
+session_start();
+ if(isLogged()) {
+ $user = isLogged();
+ 
+ $NewCommand = "rm /var/www/html/GalleriaOpenDay/ProcEditor/php/tempde/temp.$user.xml";
+ $NewCommand2 = "rm /var/www/html/GalleriaOpenDay/ProcEditor/php/tempde/temp.$user.xml~";
+ $NewExe = shell_exec($NewCommand);
+ $NewExe2 = shell_exec($NewCommand2);
+ echo $NewExe;
+ echo $NewExe2;
+ header("Location: ProcEditor.php");
+ }
+?>

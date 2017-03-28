@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Galleria Processing</title>
+<script src="../js/processing.js"></script>
+<script>
+function canvas2image(){
+	 var canvas = document.getElementById('generativeCnv');
+    var context = canvas.getContext('2d');
+    var dataURL = canvas.toDataURL();
+    var strfile = document.getElementById('idFile').value;
+    var link = document.createElement('a');
+    if (strfile == null || strfile == "") {
+        	alert("Bisogna inserire il nome file con estensione di png");  
+    } else {	 
+	 		dataURL.filename
+    		link.download = strfile;
+    		link.href = dataURL;
+    		link.click();
+    }
+}    
+</script>
+</head>
+<body>
+<b><div style="text-align: center"> <i>Galleria Processing</i></div></b><br>
+<hr>
+<center><nome file>.
+<table BORDER="0" align="center">
+	<tr>
+		<td align="center" valign="middle" ><canvas id="generativeCnv" data-processing-sources="generatore_forme.pde"></canvas></td>
+	</tr>
+	<tr>
+	   <td align="center" valign="middle"><b>Per inviare il file via email</b>&nbsp;<input type="text" value="<nome file>.png" id="idFile"> &nbsp;<input type="submit" value="Image" onClick="canvas2image()"></td>
+	</tr>
+	<tr>
+		<td align="center" valign="middle"><p id="VisualizzaUriImage"></p></td>
+	</tr>
+</table>
+</center>
+<br>
+<a href="editor_processing_punto.html"> Nuovo Editor </a><br>
+<a href="../index.html"> Home Page </a>
+
+</body>
+</html>

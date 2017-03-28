@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<layers>
+	<layer color="#ff0000" border-color="#ff0000" tipo="triangolo" x1="100" y1="50" x2="100" y2="100" x3="150" y3="100" />
+</layers>

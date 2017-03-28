@@ -1,0 +1,71 @@
+Vuoto
+ File in analisi ../forme_geometriche/elemento_1454525031.xml
+spezzata, adevincentis, FFcd0f0f, 10, 10, 20, 150, forma grafica di adevincentis
+ red 205.0
+ blue 15.0
+ green 15.0
+ File in analisi ../forme_geometriche/elemento_1461600312.xml
+punto, gstampella, FFd58d8d, 10, 10, 0, 0, forma grafica di gstampella
+ red 213.0
+ blue 141.0
+ green 141.0
+ File in analisi ../forme_geometriche/elemento_1461600345.xml
+linea, gstampella, FFdd2727, 10, 10, 300, 300, forma grafica di gstampella
+ red 221.0
+ blue 39.0
+ green 39.0
+ File in analisi ../forme_geometriche/elemento_1461600557.xml
+punto, gstampella, FF1d2cd4, 300, 20, 0, 0, forma grafica di gstampella
+ red 29.0
+ blue 212.0
+ green 44.0
+ File in analisi ../forme_geometriche/elemento_1461600593.xml
+punto, gstampella, FF203eb2, 400, 50, 0, 0, forma grafica di gstampella
+ red 32.0
+ blue 178.0
+ green 62.0
+ File in analisi ../forme_geometriche/elemento_1461600627.xml
+linea, gstampella, FF1f22a7, 300, 300, 10, 400, forma grafica di gstampella
+ red 31.0
+ blue 167.0
+ green 34.0
+ File in analisi ../forme_geometriche/elemento_1461600736.xml
+punto, gstampella, FF195a0a, 200, 300, 0, 0, forma grafica di gstampella
+ red 25.0
+ blue 10.0
+ green 90.0
+ File in analisi ../forme_geometriche/elemento_1461601359.xml
+rettangolo, gstampella, FFa41313, 20, 20, 250, 10, forma grafica di gstampella
+ red 164.0
+ blue 19.0
+ green 19.0
+ File in analisi ../forme_geometriche/elemento_1461601399.xml
+rettangolo, gstampella, FF0e119e, 50, 60, 100, 100, forma grafica di gstampella
+ red 14.0
+ blue 158.0
+ green 17.0
+ File in analisi ../forme_geometriche/elemento_1461601608.xml
+punto, gstampella, FFe1d41c, 10, 10, 0, 0, forma grafica di gstampella
+ red 225.0
+ blue 28.0
+ green 212.0
+ File in analisi ../forme_geometriche/elemento_1461601867.xml
+punto, gstampella, FFa81b3d, 500, 300, 0, 0, forma grafica di gstampella
+ red 168.0
+ blue 61.0
+ green 27.0
+ File in analisi ../forme_geometriche/elemento_1461601912.xml
+ellisse, gstampella, FF2e1ebd, 400, 200, 10, 50, forma grafica di gstampella
+ red 46.0
+ blue 189.0
+ green 30.0
+ File in analisi ../forme_geometriche/elemento_1461602040.xml
+linea, gstampella, FFd4e611, 200, 350, 250, 400, forma grafica di gstampella
+ red 212.0
+ blue 17.0
+ green 230.0
+ File in analisi ../forme_geometriche/elemento_1461602085.xml
+ellisse, gstampella, FF000000, 10, 10, 100, 100, forma grafica di gstampella
+ red 0.0
+ blue 0.0
+ green 0.0

@@ -1,0 +1,37 @@
+Vuoto
+ File in analisi ../forme_geometriche/elemento_1462977851.xml
+punto, adevincentis, FFc91010, 40.0, 40.0, 0.0, 0.0, forma grafica di adevincentis
+ red 201.0
+ blue 16.0
+ green 16.0
+Area piena 
+ File in analisi ../forme_geometriche/elemento_1462977875.xml
+linea, adevincentis, FF172eb2, 10.0, 10.0, 100.0, 5.0, forma grafica di adevincentis
+ red 23.0
+ blue 178.0
+ green 46.0
+Area piena 
+ File in analisi ../forme_geometriche/elemento_1462981356.xml
+triangolo, administrator, FF251fa7, 50.0, 100.0, 20.0, 200.0, forma grafica di administrator
+ red 37.0
+ blue 167.0
+ green 31.0
+Area piena 
+ File in analisi ../forme_geometriche/elemento_1462981411.xml
+ellisse, administrator, FF0f5813, 400.0, 30.0, 30.0, 30.0, forma grafica di administrator
+ red 15.0
+ blue 19.0
+ green 88.0
+Area piena 
+ File in analisi ../forme_geometriche/elemento_1462981698.xml
+ellisse, administrator, FFc91a1a, 400.0, 400.0, 50.0, 50.0, forma grafica di administrator
+ red 201.0
+ blue 26.0
+ green 26.0
+Area bordo 
+ File in analisi ../forme_geometriche/elemento_1462982292.xml
+ellisse, administrator, FFc21515, 300.0, 400.0, 40.0, 30.0, forma grafica di administrator
+ red 194.0
+ blue 21.0
+ green 21.0
+Area piena 

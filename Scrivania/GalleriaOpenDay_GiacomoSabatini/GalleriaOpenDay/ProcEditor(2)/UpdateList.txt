@@ -1,0 +1,32 @@
+------- ProcEditor -------
+--Free Processing Editor--
+
+using HTML, PHP, JavaScript
+and Processing. 
+
+UPDATES
+
+v0.1a - No Upgrades; in Alpha Development;
+- Processing canvas not showing shapes;
+- Buttons not all working;
+- Nothing appearing on left side.
+
+v0.2a - Still in Alpha Development;
+
+- Now Rectangle, Circle, Polyline and Pentagon buttons are working;
+- Added Points Manager (left side of the screen); 
+  now you'll be able to set default point values, 
+  then place the shape;
+
+v0.3a - Still in Alpha Development;
+
+-Now all shape buttons are working;
+- Proportion output is still to fix;
+- Still not able to see result of the editor.
+
+v0.4 - Still in Alpha Development;
+
+- Finally results can be seen on php page by updating and refreshing page!;
+- Proportions still not available;
+- To Fix layer creation;
+- To Add layer Management;

@@ -1,0 +1,25 @@
+function viewNodeXml($xml){
+	foreach($xml->user as $user){
+                echo $user->username;
+    		writeSchedaNode($user-> name,$user->surname,$user->username,$user->password,$user->definition,$user->email,$user->studies, $user->$s);
+	}
+} 
+
+
+function writeSchedaNode($name,$surname,$username,$password,$definition,$email,$studies,$s){
+	echo "<hr>";
+	echo "<br>";
+	echo "<table>";
+	echo "<tr><td>Nome:</td><td>$name</td></tr>";
+        echo "<tr><td>Cognome:</td><td>$surname</td></tr>";
+	echo "<tr><td>Username:</td><td>$username</td></tr>";
+	echo "<tr><td>Password:</td><td>*****</td></tr>";
+	echo "<tr><td>Definizione:</td><td>$definition</td></tr>";
+	echo "<tr><td>email:</td><td>$email</td></tr>";
+	echo "<tr><td>Studi:</td><td>$studies</td></tr>";
+	echo "<tr><td>sesso:</td><td>$s</td></tr>";
+	echo "</table><br>";
+	echo "<hr>";
+}
+
+         viewNodeXml($xml);

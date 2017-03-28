@@ -1,0 +1,108 @@
+<html>
+<head>
+   <meta charset="utf-8" />
+   <title>Editor Processing</title>
+   <link rel="stylesheet" type="text/css" href="../css/Editor_Processing.css">
+   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+   <script src="../js/processing.js"></script> 
+</head>
+<body >
+
+
+ <div id="proceditor" class="proContainer">
+     <div id="title" class="title">
+        ProcEditor - Alpha v0.1
+     </div>
+     <div id="OptionLine">
+      
+          <button id="usr" class="filebuttons"  onclick="FileButton()"><?php
+             require("../../sessione.php");
+             session_start();
+             $xml = simplexml_load_file("info.xml");
+             
+             if(isLogged()) {
+             $user = isLogged();
+             echo $user;}
+             
+             else {
+ 	          echo "NoUser";
+            }   ?></button> 
+        
+       <form action="../php/Drawer.php" method="post" class="Update"style="float:right; z-index: 5; position:relative; top:0px; right:0px; width:85px; height:15px;">  
+              <input id="send" type="submit" name="drawer" value="Update View" class="filebuttons" > 
+              <textarea name="tempxml" id="tempxml" style="display:none; float:right;"></textarea>  
+           </form> 
+           
+      <div id="menu" class="filemenu">
+        <h6 style="margin-top:5px;margin-bottom:5px">File</h6>
+        <!--New Button -->
+          <form action="../php/New.php" method="post">
+          <input id="new" type="submit" class="filebuttons" name="new" value="New"/>
+          </form>
+          <!--Send As Button -->
+          <form action="../php/Sender.php" method="post" >  
+              <input id="send" type="submit" name="submit" value="Send As:" class="filebuttons" > 
+              <input type="text" name="xmlfilename" value="NewProcessing" style="width:100px;"></input> 
+              <textarea name="tempXML" id="tempXML" style="position:absolute;float:right;left:100px; z-index = 5; width:300px;
+              height:400px"></textarea>  
+           </form> 
+          
+        <hr>
+           <h6 style="margin-top:5px;margin-bottom:5px;"> Gallery</h6>
+           <button id="home" class="filebuttons"  name="home" onclick="homeReq()">Home</button>
+           <button id="login" class="filebuttons" name="login" onclick="loginReq()" >Login</button>
+        </div> 
+        
+ </div> 
+     <div id="toolPanel" class="toolPanel">
+         <button class="toolButton" id="createTriangle" onclick="TriangleOn(event)"><h4>Tr</h4></button>
+         <button class="toolButton" id="createRect"><h4>Rct<h4></button>
+         <button class="toolButton" id="createCircle"><h4>Cr<h4></button>
+         <button class="toolButton" id="createBrLine"><h4>BL<h4></button>
+         <button class="toolButton" id="createLine"><h4>Li<h4></button>
+         <button class="toolButton" id="createDot"><h4>Dot<h4></button>
+         <td><input type="color" name="fillcolor" id="fillcolor" class="toolButton" value="#ff0000" onchange="changeColor()"></td><br>
+         <td><input type="color" name="bordcolor" id="bordcolor" class="toolButton" value="#ff0000"></td>
+     </div>
+     <div id="mouseTrackerX" style="width:100px; float:left;"></div> 
+     <div id="mouseTrackerY" style="width:100px; float:left;"></div>
+     <div id="proCanvas" class="proCanvas" onmousemove="PrevCursor(event)">
+      <canvas data-processing-sources="Canvas_Editor.pde" id="processing">  
+     </div>
+     
+     <div id="leftPanel" class="leftPanel">
+         <div id="layers" class="layers">
+            
+         </div>
+     </div>
+   </div> 
+ <div id="shapePrev" class="shapePrev">Tr</div>
+
+  <form style="display:block; z-index: 5;">  
+              
+              <textarea name="tmpXml" id="tmpXml" style="display:none;">
+              <?php
+                 if(isLogged()) {
+                 $user = isLogged();
+                 //$tempName = "tempde/temp.m.ercolani.xml";
+                 $tempName = "tempde/temp.$user.xml";
+                 //$temp = fopen("tempde/temp.".$user.".xml", "r");
+                  $temp = fopen("tempde/temp.$user.xml", "r");
+                 echo fread($temp,filesize("tempde/temp.".$user.".xml"));
+                 }
+              ?>
+              
+              </textarea> 
+              <script type="text/javascript">
+                  var tempLoad = document.getElementById("tmpXml").value;
+                  document.getElementById("tempXML").value = tempLoad;
+                  document.getElementById("tempxml").value = tempLoad;
+              </script> 
+           </form> 
+</body>
+
+<script src="../js/ButtonManager.js"></script>
+
+<script src="../js/jquery-3.1.1.min.js"></script> 
+<script src="../js/XMLWriter/XMLWriter.js"></script> 
+</html>

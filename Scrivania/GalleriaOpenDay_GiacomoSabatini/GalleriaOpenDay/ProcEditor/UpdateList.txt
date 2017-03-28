@@ -1,0 +1,53 @@
+------- ProcEditor -------
+--Free Processing Editor--
+
+using HTML, PHP, JavaScript
+and Processing. 
+
+UPDATES
+
+v0.1a - No Upgrades; in Alpha Development;
+- Processing canvas not showing shapes;
+- Buttons not all working;
+- Nothing appearing on left side.
+
+v0.2a - Still in Alpha Development;
+
+- Now Rectangle, Circle, Polyline and Pentagon buttons are working;
+- Added Points Manager (left side of the screen); 
+  now you'll be able to set default point values, 
+  then place the shape;
+
+v0.3a - Still in Alpha Development;
+
+-Now all shape buttons are working;
+- Proportion output is still to fix;
+- Still not able to see result of the editor.
+
+v0.4 - Still in Alpha Development;
+
+- Finally results can be seen on php page by updating and refreshing page!;
+- Proportions still not available;
+- To Fix layer creation;
+- To Add layer Management;
+
+v0.5 - Still in Alpha Development;
+
+- Solved Bugs related to xml temporary creation in which xml opening tag was written 
+  every time somebody created a shape, avoiding Processing to read the file;
+- Now debug text areas are hidden; 
+  soon a specific button to make appear the one under Update View button;
+- Solved bug related to the unwilling creation of shapes when clicking on right bar;
+  now shapes will be created only when clicking over processing canvas;
+- Proportions still not available;
+- To Fix layer creation;
+- To Add layer Management;
+
+
+v0.6 - Still in Alpha Development;
+
+- Now it's far powerful than before! Finally added Layer Management (Remove and Move);
+- To fix Layer Management to make it work better!
+- Clear Cache has now a password for Admins ("RPGaba2017");
+- Added startup window;
+- Now you can Load Files stored on our Server! Don't worry to lose your work anymore!

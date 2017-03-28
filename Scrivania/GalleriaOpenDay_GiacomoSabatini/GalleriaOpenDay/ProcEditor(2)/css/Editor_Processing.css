@@ -1,0 +1,224 @@
+/*this is for the main CONTAINER*/
+.proContainer
+{
+	z-index: 1;
+   width: 1600px;
+   height: 720px;
+   margin: auto;
+   background-color: rgb(220,220,220);
+}
+
+/*this is for TITLE*/
+.title
+{
+	z-index: 2;
+  width:100%;
+  height:30px;
+  text-align: center;
+  background: linear-gradient(rgb(235,235,235),rgb(255,255,255)); 
+}
+/*this is for Option Commands*/
+#OptionLine
+{
+	z-index: 2;
+ width:100%;
+ background-color: white;
+ border-bottom: 1px solid black;
+}
+.filebuttons
+{
+	background-color: white;
+	border: none;
+}
+.filebuttons:hover
+{
+	background-color: lightgrey;
+}
+.filebuttons:active
+{
+  background-color: grey;
+}
+
+.filemenu
+{
+display: none;
+  opacity:0;
+  z-index: -1;
+  width: 100px;
+   background-color: white;
+   border: 1px solid black;
+   position: absolute;
+}
+.opened
+{
+    display: block;
+    opacity: 1;
+    z-index: 3;
+     width: 100px;
+    
+    
+}
+.Update
+{
+	background-color: white;
+	border: none;
+	width:100px;
+	height:15px;
+}
+.Update:hover
+{
+	background-color: lightgrey;
+}
+.Update:active
+{
+  background-color: grey;
+}
+/*for Tool Panel*/
+.toolPanel
+{
+	z-index: 2;
+	float: left;
+  height:650px;
+  width:50px;
+  background: linear-gradient(to right, rgb(245,245,245),rgb(255,255,255)); 
+}
+.toolButton
+{
+   width:50px;
+   height:50px;
+   border: 2px outset grey;
+   background: none;
+}
+
+.toolButton:hover
+{
+   width:50px;
+   height:50px;
+   border: 2px outset grey;
+   background-color: lightgrey;
+}
+.toolButton:active
+{
+   width:50px;
+   height:50px;
+   border: 2px outset grey;
+   background-color: grey;
+}
+
+
+/* this is for the CANVAS */
+.proCanvas
+{
+	z-index: 2;
+  width:auto;
+  height: auto;
+  float: left;
+  position: absolute;
+  margin-left: 300px;
+}
+
+.leftPanel
+{
+	z-index: 2;
+   position:relative;
+   float:right;
+   width:300px;
+   height:650px;
+   right:0px;
+   
+   background: linear-gradient(to right, rgb(245,245,245),rgb(255,255,255)); 
+}
+
+/*Shape Preview*/
+
+.shapePrev
+{
+	display: none;
+   z-index: 5;
+   background-image:url('null');
+   position:absolute;
+   width:auto;
+}
+
+ .triangle
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/triangolo.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+
+ .rectangular
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/rettangolo.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+
+ .pentagon
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/pentagono.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+ .circle
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/cerchio.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+ .polyline
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/polilinea.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+ .line
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/linea.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+ .dot
+{   
+display: block;
+   z-index: 5; 
+   background-image:url('../Imgs/punto.png');
+   background-size: 50px 50px;
+   width:50px;
+   height: 50px;
+   position:absolute;
+}
+/*Panels Switch*/
+.PanOn
+{
+   display:block;
+  
+}
+.PanOff
+{
+  display:none;
+}

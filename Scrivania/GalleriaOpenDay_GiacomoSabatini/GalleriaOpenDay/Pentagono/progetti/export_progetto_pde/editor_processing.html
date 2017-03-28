@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>Editor Processing</title>
+<script>
+function changeView()  {
+    var tipo = document.forms["frmEditor"]["tipo"].value;
+    if (tipo=="punto") {
+			document.getElementById("idpunto").style.display="block";
+			document.getElementById("idpunto").disabled=false;
+			document.getElementById("idlinea").style.display="none";
+			document.getElementById("idlinea").disabled = true;
+			document.getElementById("idrettangolo").style.display="none";
+			document.getElementById("idtriangolo").style.display="none";
+			document.getElementById("idspezzata").style.display="none";
+    }
+    if (tipo=="linea") {
+			document.getElementById("idpunto").style.display="none";
+			document.getElementById("idpunto").disabled=true;
+			document.getElementById("idlinea").style.display="block";
+			document.getElementById("idlinea").disabled = false;
+			document.getElementById("idrettangolo").style.display="none";
+			document.getElementById("idtriangolo").style.display="none";
+			document.getElementById("idspezzata").style.display="none";
+    }
+    if ((tipo=="rettangolo")||(tipo=="ellisse")) {
+			document.getElementById("idpunto").style.display="none";
+			document.getElementById("idlinea").style.display="none";
+			document.getElementById("idrettangolo").style.display="block";
+			document.getElementById("idtriangolo").style.display="none";
+			document.getElementById("idspezzata").style.display="none";
+    }
+    if (tipo=="triangolo") {
+			document.getElementById("idpunto").style.display="none";
+			document.getElementById("idlinea").style.display="none";
+			document.getElementById("idrettangolo").style.display="none";
+			document.getElementById("idtriangolo").style.display="block";
+			document.getElementById("idspezzata").style.display="none";
+    }
+    if (tipo=="spezzata") {
+			document.getElementById("idpunto").style.display="none";
+			document.getElementById("idlinea").style.display="none";
+			document.getElementById("idrettangolo").style.display="none";
+			document.getElementById("idtriangolo").style.display="none";
+			document.getElementById("idspezzata").style.display="block";
+    }
+    return true;
+}
+
+
+function inizializza() {
+	document.getElementById("idpunto").style.display="block";
+	document.getElementById("idpunto").disabled=false;
+	document.getElementById("idlinea").style.display="none";
+	document.getElementById("idlinea").disabled = false;
+	document.getElementById("idrettangolo").style.display="none";
+	document.getElementById("idtriangolo").style.display="none";
+	document.getElementById("idspezzata").style.display="none";
+}
+
+function modulo()  {
+    var tipo = document.forms["frmEditor"]["tipo"].value;
+    //alert(document.forms["frmEditor"]["cx1"].value);
+    return true;
+}
+</script>
+</head>
+<body onLoad="inizializza()">
+<b><div style="text-align: center"><i>Editor Galleria Processing</i></div></b>
+<form name="frmEditor" action="editor_processing.php" method="POST" onsubmit="return modulo()">
+   <table border= "0">
+   	<tr>
+   		<td>Tipo forma geometrica:</td>
+   		<td><select name="tipo" onClick="changeView()">
+			<option value="punto">Punto</option>
+			<option value="linea">Linea</option>
+			<option value="rettangolo">Rettangolo</option>
+			<option value="ellisse">Ellisse</option>
+			<option value="triangolo">Triangolo</option>
+			<option value="spezzata">Spezzata</option>
+			</select>
+		</td>
+   	</tr>
+   	<tr>
+   		<td>Colore:</td>
+    		<td><input type="color" name="colore"></td>
+   	</tr>
+    </table>
+    <hr>
+ 	 <div id="idpunto" >
+	   <table border= "0">
+	   	<tr>
+   			<td>Coordinata x1:</td>
+   			<td><input type="text" name="cx1" ></td>
+   		</tr>
+   		<tr>
+	   		<td>Coordinata y1:</td>
+   			<td><input type="text" name="cy1" ></td>
+   		</tr>
+   	</table>
+    </div>
+    <div id="idlinea">
+	   <table border= "0">
+	   	<tr>
+   			<td>Coordinata x1:</td>
+   			<td><input type="text" name="cx1" ></td>
+   		</tr>
+   		<tr>
+	   		<td>Coordinata y1:</td>
+   			<td><input type="text" name="cy1" ></td>
+   		</tr>
+   		<tr>
+   			<td>Coordinata x2:</td>
+   			<td><input type="text" name="cx2" ></td>
+   		</tr>
+   		<tr>
+	   		<td>Coordinata y2:</td>
+   			<td><input type="text" name="cy2" ></td>
+   		</tr>
+   	</table>
+    </div>
+    <hr>
+    <table border= "0">
+   	<tr>
+   		<td>Area figura:</td>
+			<td><input type="radio" name="contorno" value="fill" checked>riempire &nbsp;<input type="radio" name="contorno" value="border">bordo</td>
+   	</tr>
+   	<tr>
+   		<td> </td><td><input type="submit" name="Crea" value="Crea" ></td>
+   	</tr>
+    </table>
+</form>
+<br>Per concludere questa operazione bisogna accedere al sito con il proprio account ... <br>
+<a href="../login.html"> Login </a>
+</body>
+</html>

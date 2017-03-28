@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Login</title>
+<script>
+function modulo()  {
+    var user = document.forms["frmLogin"]["username"].value;
+    var passwd = document.forms["frmLogin"]["password"].value;
+    if (user == null || user == "") {
+        alert("Bisogna inserire la username");
+        return false;
+    }
+    if (passwd == null || passwd == "") {
+        alert("Bisogna inserire la password");
+        return false;
+    }
+}
+</script>
+</head>
+<body>
+<b><div style="text-align: center">Login al sito <i>Galleria Processing</i></div></b>
+<form name="frmLogin" action="loginrealm.php" method="POST" onsubmit="return modulo()">
+   <table border= "0">
+   	<tr>
+   		<td>Username:</td>
+   		<td><input type="text" name="username" ></td>
+   	</tr>
+   	<tr>
+   		<td>Password:</td>
+   		<td><input type="password" name="password" ></td>
+   	</tr>
+   	<tr>
+		<td>Realm:</td>
+		<td><select name="realm" >
+			<option value="aba">ABA</option>
+			<option value="isia">isia</option>
+			<option value="culto">culto di chtulu</option>
+			</select>
+		</td>
+	</tr>
+   	<tr>
+   		<td> </td><td><input type="submit" name="Login" value="login" ></td>
+   	</tr>
+   </table>
+</form>
+<a href="registrazionerealm.html"> Registrazione </a>
+</body>
+</html>

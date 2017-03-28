@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Galleria Processing</title>
+<script src="../js/processing.js"></script>
+</head>
+<body>
+<b><div style="text-align: center"> <i>Galleria Processing</i></div></b><br>
+<hr>
+<table BORDER="0">
+	<tr>
+		<td><canvas data-processing-sources="forme.pde"></canvas></td>
+	</tr>
+</table>
+<br>
+<a href="editor_processing.html"> Nuovo editor </a><br>
+<a href="index.html"> Home Page </a>
+
+</body>
+</html>
